@@ -27,9 +27,9 @@
 const luisGustavo = {
   nome: "Luís Gustavo Barbosa Gonçalves",
   localizacao: "João Monlevade, Minas Gerais 🇧🇷",
-  formacao: "Ciência da Computação / Engenharia",
+  formacao: "Sistemas de Informação",
   foco: ["Full Stack Development", "Back-End", "Bots & Automações"],
-  linguagens: ["JavaScript", "TypeScript", "Java", "Python", "C"],
+  linguagens: ["JavaScript", "TypeScript", "Java", "Node.js", "C#"],
   hobby: "Transformar problemas em código ☕",
   atualmente: "Desenvolvendo projetos inovadores 🚀"
 };
