@@ -70,18 +70,21 @@ const luisGustavo = {
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu15Gustavo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&rank_icon=github&cache_seconds=3600"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lu15Gustavo&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lu15Gustavo&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lu15Gustavo&theme=tokyonight&utcOffset=-3" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lu15Gustavo&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lu15Gustavo&theme=tokyonight" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Lu15Gustavo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9" />
-</div>
-
-### 💬 Linguagens mais usadas
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lu15Gustavo&theme=tokyonight&exclude=" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lu15Gustavo&theme=tokyonight" />
 </div>
 
 ---
