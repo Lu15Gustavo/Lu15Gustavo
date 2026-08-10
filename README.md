@@ -29,7 +29,7 @@ const luisGustavo = {
   localizacao: "João Monlevade, Minas Gerais 🇧🇷",
   formacao: "Sistemas de Informação",
   foco: ["Full Stack Development", "Back-End", "Bots & Automações"],
-  linguagens: ["JavaScript", "TypeScript", "Java", "Python", "C"],
+  linguagens: ["JavaScript", "TypeScript", "Java", "Python", "SQL"],
   hobby: "Transformar problemas em código ☕",
   atualmente: "Desenvolvendo projetos inovadores 🚀"
 };
